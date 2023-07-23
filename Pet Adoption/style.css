@@ -82,7 +82,7 @@
   }
   
   
-  /* header */
+
   
   .header{
     position: fixed;
@@ -131,7 +131,7 @@
     display: none;
   }
   
-  /* login form */
+
   
   .header .login-form{
     position: absolute;
@@ -185,10 +185,7 @@
     text-align: center;
   }
   
-  /* end */
-  
-  /* home */
-  
+
   .home{
     min-height: 100vh;
     display: flex;
@@ -216,10 +213,7 @@
     height: 12rem;
   }
   
-  
-  /* end */
-  
-  /* about */
+
   
   .about .box-container{
     display: flex;
@@ -411,13 +405,6 @@
     transform: translateY(-20px);
   }
   
-
-  
-
-  
-
-  
-  /* contact */
   
   .contact{
     background: var(--bg);
@@ -455,11 +442,6 @@
     width: 100%;
   }
   
-  /* end */
-  
-
-  
-  /* media queries */
   
   @media(max-width: 991px){
     html{
@@ -523,5 +505,4 @@
   
   }
 
-  /*------------------------------------------*/
   
